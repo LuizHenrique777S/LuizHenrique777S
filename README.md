@@ -34,7 +34,7 @@ Participação em metodologias ágeis com equipe multidisciplinar
   </a>
   
   <!-- LinkedIn -->
-  <a href="LINK-DO-SEU-LINKEDIN" title="LinkedIn" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/luiz-henrique-aa7b9b243/" title="LinkedIn" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
