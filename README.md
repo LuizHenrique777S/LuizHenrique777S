@@ -7,15 +7,15 @@
 ☕ *"Transformo café em componentes reutilizáveis"*
 
 #### 💼 Experiência Técnica:
-- React.js para interfaces dinâmicas
-- Desenvolvimento de **SPAs responsivas** com HTML5/CSS3 moderno
-- Implementação de **lógica front-end** complexa em JavaScript ES6+
-- Controle de versão com **Git/GitHub** seguindo boas práticas
+Projeto Quiz Gamificado Ideal Space (Parceria Porto Digital/UCB) 
+Cargo: Desenvolvedor Front-end | Período: 2025
+Tecnologias: React.js, JavaScript, HTML5, CSS3 
 
-#### 🚀 Projeto Destaque:
-**Quiz Gamificado Ideal Space** (Porto Digital/UCB)  
-- Arquitetura de componentes React   
-- Animações CSS3 para experiência gamificada  
+Responsabilidades e Conquistas: 
+Desenvolvimento de interfaces interativas com React 
+Implementação de lógica de gamificação (pontuação, níveis) 
+Criação de componentes reutilizáveis 
+Participação em metodologias ágeis com equipe multidisciplinar 
 
 ---
 
@@ -28,4 +28,15 @@
 
 ---
 
-
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luizhenrique08199Gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
