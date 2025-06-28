@@ -19,21 +19,27 @@ Participação em metodologias ágeis com equipe multidisciplinar
 
 ---
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 ---
 
 <p align="left">
-  <a href="mailto:luizhenrique08199@gmail.com" title="Envie um e-mail">
-  <img src="https://img.shields.io/badge/✉_luizhenrique08199@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-</a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <!-- Email -->
+  <a href="mailto:luizhenrique08199@gmail.com" title="E-mail" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/✉_luizhenrique08199@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="LINK-DO-SEU-LINKEDIN" title="LinkedIn" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/lz_ares7/" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
