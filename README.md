@@ -29,8 +29,8 @@ Participação em metodologias ágeis com equipe multidisciplinar
 ---
 
 <p align="left">
-  <a href="mailto:luizhenrique08199@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:luizhenrique08199@gmail.com" title="Envie um e-mail">
+  <img src="https://img.shields.io/badge/✉_luizhenrique08199@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
