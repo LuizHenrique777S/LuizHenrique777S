@@ -1,6 +1,6 @@
 ### 👨💻 Luiz Henrique Soares
 **Desenvolvedor Front-end 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 📍 Brasília - DF | 🎓 Análise e Desenvolvimento de Sistemas - UCB  
 ☕ *"Transformo café em componentes reutilizáveis"*
 
@@ -16,7 +16,7 @@
 - Animações CSS3 para experiência gamificada  
 
 ---
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
